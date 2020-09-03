@@ -9,3 +9,27 @@ footer {
     text-align: center;
     color: white;
 }
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: #262626;
+    padding: 10px;
+    padding-left: 5%;
+  }
+  .grid-item {
+    background-color: #262626;
+    color:gray;
+    padding: 10px;
+    margin: 20px;
+    font-size: 14px;
+    text-align: center;
+  }
+  .grid-item h3{
+      color: white;
+  }
+
+  .content{
+      padding-top: 20px;
+      padding-bottom: 20px;
+  }
