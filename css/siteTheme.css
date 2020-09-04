@@ -15,7 +15,9 @@ footer {
     grid-template-columns: auto auto auto;
     background-color: #262626;
     padding: 10px;
-    padding-left: 5%;
+    padding-left:3% ;
+    padding-right:3% ;
+    align-content: center;
   }
   .grid-item {
     background-color: #262626;
